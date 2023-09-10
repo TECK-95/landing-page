@@ -1,0 +1,1 @@
+For this project I will be creating a landing page to demonstrate HTML, CSS and Flexbox skills. I will create the basic HTML web page, style it with CSS and lay it out with Flexbox.
