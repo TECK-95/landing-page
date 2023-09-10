@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    width: 480px;
+    height: auto;
+}
+
+.displayTitle {
+    font-size: medium;
+}
+
+.paintings {
+    display: flex;
+    flex-wrap: wrap;
+}
