@@ -1,11 +1,16 @@
 body {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 
 img {
     width: 480px;
     height: auto;
+}
+
+.header {
+    display: flex;
 }
 
 .container {
