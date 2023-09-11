@@ -50,7 +50,13 @@ img {
 .container {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     background-color: white;
+}
+
+.item {
+    min-width: 120px;
+    max-width: 480px;
 }
 
 .displayTitle {
@@ -64,5 +70,6 @@ img {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    align-items: center;
     flex: 1, 1. auto;
 }
