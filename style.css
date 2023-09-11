@@ -10,6 +10,7 @@ img {
     min-width: 120px;
     max-width: 720px;
     border-radius: 25px;
+    border: 2px solid aqua;
 }
 
 .header {
@@ -21,22 +22,22 @@ img {
     justify-content: space-around;
 }
 
-.welcomeMessage {
-
-}
-
 .welcome img {
     border-radius: 0;
+    border: none;
 }
 
 .container {
     display: flex;
     flex-direction: column;
+    background-color: white;
 }
 
 .displayTitle {
-    font-size: 32px;
+    font-size: 36px;
     text-align: center;
+    color: #1F2937;
+    font-weight: bolder;
 }
 
 .paintings {
