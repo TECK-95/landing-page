@@ -85,6 +85,16 @@ img {
     flex: 1, 1. auto;
 }
 
+.quote {
+    background-color: #E5E7EB;
+    text-align: center;
+}
+
+.quoteText {
+    font-size: 36px;
+    font-style: italic;
+}
+
 ul {
     list-style: none;
     display: flex;
