@@ -93,6 +93,12 @@ img {
 .quoteText {
     font-size: 36px;
     font-style: italic;
+    color: #1F2937;
+}
+
+.source {
+    font-size: 18px;
+    font-weight: bold;
 }
 
 ul {
