@@ -20,6 +20,7 @@ img {
 .welcome {
     display: flex;
     justify-content: space-around;
+    align-items: center;
     background-color: #1F2937;
 }
 
@@ -32,6 +33,13 @@ img {
 .openText {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.welcomeMessage {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .welcome img {
