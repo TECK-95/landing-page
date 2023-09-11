@@ -19,10 +19,12 @@ img {
 }
 
 .displayTitle {
-    font-size: medium;
+    font-size: 32px;
+    text-align: center;
 }
 
 .paintings {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
 }
