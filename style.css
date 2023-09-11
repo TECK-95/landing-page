@@ -18,6 +18,11 @@ img {
 
 .welcome {
     display: flex;
+    justify-content: space-around;
+}
+
+.welcomeMessage {
+
 }
 
 .welcome img {
