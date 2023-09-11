@@ -23,8 +23,11 @@ img {
 
 .logo {
     font-size: 24px;
+    font-weight: bold;
     color: #F9FAF8;
-    background-color: aqua;
+    background-color: blue;
+    border-radius: 10px;
+    flex-shrink: 0;
 }
 
 .welcome {
