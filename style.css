@@ -78,6 +78,7 @@ img {
     text-align: center;
     color: #1F2937;
     font-weight: bolder;
+    padding: 16px;
 }
 
 .paintings {
@@ -102,6 +103,25 @@ img {
 .source {
     font-size: 18px;
     font-weight: bold;
+}
+
+.signup {
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882F6;
+    border-radius: 10px;
+    margin: 100px 200px;
+    padding: 100px;
+    color: #F9FAF8;
+}
+
+.subhead {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.footText {
+    font-size: 18px;
 }
 
 ul {
