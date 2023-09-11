@@ -7,6 +7,9 @@ body {
 img {
     width: 480px;
     height: auto;
+    min-width: 120px;
+    max-width: 720px;
+    border-radius: 25px;
 }
 
 .header {
@@ -27,4 +30,5 @@ img {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    flex: 1, 1. auto;
 }
