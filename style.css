@@ -137,3 +137,12 @@ a {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+button {
+    background-color: #3882F6;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 20px;
+}
